@@ -1,2 +1,2 @@
-# my CV
-* https://Aurtekh.github.io/CV/CV
+## my CV
+* https://Aurtekh.github.io/cv/summary
